@@ -1,10 +1,15 @@
 import './App.css';
+import Header from './components/Header';
+import Figure from './components/Figure';
 
 function App() {
   return (
-    <div>
-      Hello World
-    </div>
+    <>
+      <Header />
+      <div className="game-container">
+        <Figure />
+      </div>
+    </>
   );
 }
 
