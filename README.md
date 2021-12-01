@@ -4,6 +4,9 @@ React Hangman Game
 
 <!-- Live link to deployed app -->
 
+Repository: https://github.com/Mdudzik92/React-Hangman<br>
+Deployed app: https://dudzik-hangman.herokuapp.com/
+
 <!-- Technologies used -->
 
 JavaScript, React, React Hooks
